@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\specifications\\productswithtypesandbrandsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\specifications\\productswithtypesandbrandsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98252D11-62D4-4372-90DB-4C02726252C4}|API\\API.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98252D11-62D4-4372-90DB-4C02726252C4}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\infrastructure\\data\\specificationevalator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\specificationevalator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6BBC6-0E5C-4763-B24E-B01C3F617D9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A5BC5-C742-45C9-B36B-D1DB96C19AF7}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98252D11-62D4-4372-90DB-4C02726252C4}|API\\API.csproj|c:\\users\\benot\\onedrive\\bureau\\dotnet projects tutorial\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98252D11-62D4-4372-90DB-4C02726252C4}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsWithTypesAndBrandsSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:31:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:20:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:15:50.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecificationEvalator.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\SpecificationEvalator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvalator.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\SpecificationEvalator.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\SpecificationEvalator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:07:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:06:36.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:02:13.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:21:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:21:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:21:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:45:42.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Dotnet Projects tutorial\\skinet\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:40:35.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

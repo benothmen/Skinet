@@ -8,8 +8,9 @@ C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\bi
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\bin\Debug\net7.0\Core.dll
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
-C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date

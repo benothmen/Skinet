@@ -71,3 +71,4 @@ C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\API\bin\Debug\net
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\benot\OneDrive\Bureau\Dotnet Projects tutorial\skinet\API\obj\Debug\net7.0\API.sourcelink.json
